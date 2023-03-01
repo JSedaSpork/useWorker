@@ -10,7 +10,7 @@ importers:
 
   packages/examples:
     specifiers:
-      '@koale/useworker': workspace:^4.0.2
+      '@jseda/useworker': workspace:^5.0.0
       eslint-plugin-react: ^7.22.0
       react: ^16.13.1
       react-dom: ^16.13.1
@@ -18,7 +18,7 @@ importers:
       react-scripts: ^3.4.1
       react-toast-notifications: ^2.4.0
     dependencies:
-      '@koale/useworker': link:../useWorker
+      '@jseda/useworker': link:../useWorker
       react: 16.14.0
       react-dom: 16.14.0_react@16.14.0
       react-router-dom: 5.2.0_react@16.14.0

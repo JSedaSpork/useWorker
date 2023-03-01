@@ -12,7 +12,7 @@
       "ci:publish": "pnpm run build -r && changeset publish",
       "ci:version": "changeset version"
   },
-  "repository": "alewin/useworker",
+  "repository": "JSedaSpork/useworker",
   "keywords": [
       "useWorker",
       "react",
@@ -26,7 +26,7 @@
   "author": "alewin",
   "license": "MIT",
   "bugs": {
-      "url": "https://github.com/alewin/useWorker/issues"
+      "url": "https://github.com/JSedaSpork/useWorker/issues"
   },
-  "homepage": "https://github.com/alewin/useWorker#readme"
+  "homepage": "https://github.com/JSedaSpork/useWorker#readme"
 }
